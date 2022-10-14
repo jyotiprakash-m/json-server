@@ -5,18 +5,21 @@
     },
     "worktimeline": [
         {
+            "id": 1,
             "jobtitle": "Designer of week",
             "where": "YAdfi",
             "startDate": "2020 March",
             "endDate": "2020 June"
         },
         {
+            "id": 2,
             "jobtitle": "Designer of week",
             "where": "Jamalya",
             "startDate": "2019 March",
             "endDate": "2020 June"
         },
         {
+            "id": 3,
             "jobtitle": "Designer of week",
             "where": "ALquds",
             "startDate": "2019 March",
@@ -25,36 +28,44 @@
     ],
     "skills": [
         {
+            "id": 1,
             "name": "Python",
             "value": 90
         },
         {
+            "id": 2,
             "name": "Djano",
             "value": 85
         },
         {
+            "id": 3,
             "name": "Javascript",
             "value": 80
         },
         {
+            "id": 4,
             "name": "React",
             "value": 60
         },
         {
+            "id": 5,
             "name": "Jquery",
             "value": 85
         }
     ],
     "services": [
         {
+            "id": 1,
             "title": "UI & UX Design",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
         },
         {
+            "id": 2,
             "title": "Mobile Apps",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
         },
         {
+            "id": 3,
             "title": "Wordpress Design",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
         }
