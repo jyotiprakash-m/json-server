@@ -69,5 +69,151 @@
             "title": "Wordpress Design",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
         }
+    ],
+    "dataportfolio": [
+        {
+            "id": 1,
+            "img": "https://picsum.photos/400/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "img": "https://picsum.photos/400/800/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "img": "https://picsum.photos/400/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 4,
+            "img": "https://picsum.photos/400/600/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 5,
+            "img": "https://picsum.photos/400/300/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 6,
+            "img": "https://picsum.photos/400/700/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 7,
+            "img": "https://picsum.photos/400/600/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 8,
+            "img": "https://picsum.photos/400/300/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 9,
+            "img": "https://picsum.photos/400/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 10,
+            "img": "https://picsum.photos/400/550/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 11,
+            "img": "https://picsum.photos/400/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 12,
+            "img": "https://picsum.photos/400/700/?grayscale",
+            "desctiption": "The wisdom of life consists in the elimination of non-essentials.",
+            "tech": [
+                "java",
+                "Docker",
+                "React js",
+                "Angular"
+            ],
+            "link": "#"
+        }
     ]
 }
