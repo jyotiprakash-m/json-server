@@ -1,166 +1,62 @@
 {
-    "products": [
+    "dataabout": {
+        "title": "A bit about my self",
+        "aboutme": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies."
+    },
+    "worktimeline": [
         {
-            "id": 1,
-            "title": "Product 1",
-            "category": "electronics",
-            "price": 4000,
-            "description": "This is description about product 1"
+            "jobtitle": "Designer of week",
+            "where": "YAdfi",
+            "startDate": "2020 March",
+            "endDate": "2020 June"
         },
         {
-            "id": 2,
-            "title": "Product 2",
-            "category": "electronics",
-            "price": 2000,
-            "description": "This is description about product 2"
+            "jobtitle": "Designer of week",
+            "where": "Jamalya",
+            "startDate": "2019 March",
+            "endDate": "2020 June"
         },
         {
-            "id": 3,
-            "title": "Product 3",
-            "category": "books",
-            "price": 1000,
-            "description": "This is description about product 3"
-        },
-        {
-            "id": 4,
-            "title": "Product 4",
-            "category": "fitness",
-            "price": 3000,
-            "description": "This is description about product 4"
-        },
-        {
-            "id": 5,
-            "title": "Product 5",
-            "category": "fitness",
-            "price": 4000,
-            "description": "This is description about product 5"
-        },
-        {
-            "id": 6,
-            "title": "Product 6",
-            "category": "gardening",
-            "price": 5000,
-            "description": "This is description about product 6"
-        },
-        {
-            "id": 7,
-            "title": "Product 7",
-            "category": "furniture",
-            "price": 6000,
-            "description": "This is description about product 7"
-        },
-        {
-            "id": 8,
-            "title": "Product 8",
-            "category": "furniture",
-            "price": 7000,
-            "description": "This is description about product 8"
-        },
-        {
-            "id": 9,
-            "title": "Product 9",
-            "category": "accessories",
-            "price": 4000,
-            "description": "This is description about product 9"
-        },
-        {
-            "id": 10,
-            "title": "Product 10",
-            "category": "electronics",
-            "price": 3000,
-            "description": "This is description about product 10",
-            "discount": {
-                "type": "shipping"
-            }
-        },
-        {
-            "id": 1,
-            "title": "Product 11",
-            "category": "electronics",
-            "price": 3000,
-            "description": "This is description about product 10",
-            "discount": {
-                "type": "shipping"
-            }
-        },
-        {
-            "id": 12,
-            "title": "Product 12",
-            "category": "electronics",
-            "price": 3000,
-            "description": "This is description about product 10",
-            "discount": {
-                "type": "shipping"
-            }
-        },
-        {
-            "id": 13,
-            "title": "Product 13",
-            "category": "electronics",
-            "price": 3000,
-            "description": "This is description about product 10",
-            "discount": {
-                "type": "shipping"
-            }
-        },
-        {
-            "id": 14,
-            "title": "Product 14",
-            "category": "electronics",
-            "price": 3000,
-            "description": "This is description about product 10",
-            "discount": {
-                "type": "shipping"
-            }
-        },
-        {
-            "id": 15,
-            "title": "Product 15",
-            "category": "electronics",
-            "price": 3000,
-            "description": "This is description about product 10",
-            "discount": {
-                "type": "shipping"
-            }
-        },
-        {
-            "title": "Product 7",
-            "category": "electronics",
-            "price": 40000,
-            "description": "This is description about product 1",
-            "id": 16
+            "jobtitle": "Designer of week",
+            "where": "ALquds",
+            "startDate": "2019 March",
+            "endDate": "2020 June"
         }
     ],
-    "reviews": [
+    "skills": [
         {
-            "id": 1,
-            "rating": 3,
-            "comment": "Review 1 for product id 1",
-            "productId": 1
+            "name": "Python",
+            "value": 90
         },
         {
-            "id": 2,
-            "rating": 4,
-            "comment": "Review 2 for product id 1",
-            "productId": 1
+            "name": "Djano",
+            "value": 85
         },
         {
-            "id": 3,
-            "rating": 4,
-            "comment": "Review 3 for product id 1",
-            "productId": 1
+            "name": "Javascript",
+            "value": 80
         },
         {
-            "id": 4,
-            "rating": 5,
-            "comment": "Review 1 for product id 2",
-            "productId": 2
+            "name": "React",
+            "value": 60
         },
         {
-            "id": 1,
-            "rating": 3,
-            "comment": "Review 1 for product id 3",
-            "productId": 15
+            "name": "Jquery",
+            "value": 85
+        }
+    ],
+    "services": [
+        {
+            "title": "UI & UX Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
+        },
+        {
+            "title": "Mobile Apps",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
+        },
+        {
+            "title": "Wordpress Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
         }
     ]
 }
